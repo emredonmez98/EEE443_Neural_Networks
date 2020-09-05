@@ -1,2 +1,2 @@
-# EEE443_Neural_Networks
-The final project for EEE443 Neural Networks
+# EEE482_Computational_Neuroscience
+The final project for EEE482 Computational Neuroscience
